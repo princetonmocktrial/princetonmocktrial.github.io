@@ -20,6 +20,12 @@ hr {
     border-width: 3px;
 }
 
+.smallhr {
+    max-width: 20%;
+    border-color: #ff6633;
+    border-width: 3px;
+}
+
 hr.light {
     border-color: #fff;
 }
